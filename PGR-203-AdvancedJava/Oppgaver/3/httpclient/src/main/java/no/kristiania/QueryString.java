@@ -1,14 +1,21 @@
 package no.kristiania;
 
-public class QueryString {
+import java.util.HashMap;
+import java.util.Map;
 
-    private final String parameterValue;
-    private final String parameterName;
+public class QueryString {
+    private Map<String, String> parameters = new HashMap<>()
+    private String parameterValue;
+    private String parameterName;
 
     public QueryString(String queryString){
-        int pos = queryString.indexOf('=');
-        parameterName = queryString.substring(0, pos);
-        parameterValue = queryString.substring(pos + 1);
+        for(String parameter : queryString.split("&")){
+            int pos = parameter.indexOf('=');
+            parameterName = parameter.substring(0, pos);
+            parameterValue = parameter.substring(pos + 1);
+            parameters.put(parameterName, parameterValue)
+        }
+
     }
 
     public Object getParameter(String status) {
