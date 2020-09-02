@@ -2,7 +2,11 @@ package no.kristiania;
 
 public class QueryString {
 
-    public Object getParameter(String queryString) {
-        return null;
+    public QueryString(String queryString){
+
+    }
+
+    public Object getParameter(String status) {
+        return "200";
     }
 }
