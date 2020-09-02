@@ -1,0 +1,3 @@
+[submodule "PG3302-SoftwareDesign/Oppgaver/1-test/Test-Hello"]
+	path = PG3302-SoftwareDesign/Oppgaver/1-test/Test-Hello
+	url = https://github.com/magnuen2k/cs-test.git
