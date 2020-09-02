@@ -1,0 +1,11 @@
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Date\bin\Debug\Date.exe.config
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Date\bin\Debug\Date.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Date\bin\Debug\Date.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Date\obj\Debug\Date.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Date\obj\Debug\Date.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Date\bin\Debug\Date.exe.config
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Date\obj\Debug\Date.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Date\obj\Debug\Date.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Date\bin\Debug\Date.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Date\bin\Debug\Date.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Date\obj\Debug\Date_project.csprojResolveAssemblyReference.cache

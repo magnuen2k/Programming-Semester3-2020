@@ -1,0 +1,19 @@
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Person\bin\Debug\Person.exe.config
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Person\bin\Debug\Person.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Person\bin\Debug\Person.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Person\obj\Debug\Person_project.csprojResolveAssemblyReference.cache
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Person\obj\Debug\Person.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_Programvarearkitektur\Kode\_Forelesning_02\Loesningsforslag_Ukeoppg\Person\obj\Debug\Person.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Person\bin\Debug\Person.exe.config
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Person\obj\Debug\Person.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Person\obj\Debug\Person.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Person\bin\Debug\Person.exe
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Person\bin\Debug\Person.pdb
+C:\_MyStuff_\Westerdals Oslo ACT\PG3300_SoftwareDesign\Oppgaver\PG3300_02_LoesningsKode\Person\obj\Debug\Person_project.csprojResolveAssemblyReference.cache
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\bin\Debug\Person.exe.config
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\bin\Debug\Person.exe
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\bin\Debug\Person.pdb
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\obj\Debug\Person_project.csprojAssemblyReference.cache
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\obj\Debug\Person_project.csproj.CoreCompileInputs.cache
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\obj\Debug\Person.exe
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\Person\obj\Debug\Person.pdb

@@ -1,0 +1,7 @@
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\obj\Debug\HelloYou.csproj.CoreCompileInputs.cache
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\bin\Debug\HelloYou.exe.config
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\bin\Debug\HelloYou.exe
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\bin\Debug\HelloYou.pdb
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\obj\Debug\HelloYou.exe
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\obj\Debug\HelloYou.pdb
+C:\Users\cCode\Documents\Studie\Veiledning\SoftwareDesign\Oppgaver\02\PG3300_02_LoesningsKode\HelloYou\obj\Debug\HelloYou.csprojAssemblyReference.cache
